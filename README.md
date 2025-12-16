@@ -183,5 +183,5 @@ Contributions are welcome! Feel free to report bugs, suggest features, or submit
 
 ---
 
-**Author**: Created as an advanced steganography implementation  
+**Author**: Wadii Zouaghi 
 **Last Updated**: 2025
